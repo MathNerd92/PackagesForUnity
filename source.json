@@ -1,20 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"MN92 Packages for Unity",
+    "id":"com.vrchat.mn92-packages-for-unity",
+    "url":"https://MathNerd92.github.io/PackagesForUnity/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "email":"mn92gaming@",
+        "name":"MathNerd92",
         "url":"https://hello.vrchat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Packages I personally want to import into Unity projects regularly.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":https://MathNerd92.github.io/PackagesForUnity",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "poiyomi/PoiyomiToonShader"
     ],
     "packages":[
         {
