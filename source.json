@@ -14,7 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "https://github.com/poiyomi/PoiyomiToonShader/releases/tag/V8.1.166"
+        "poiyomi/PoiyomiToonShader"
     ],
     "packages":[
         {
